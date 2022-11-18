@@ -29,6 +29,7 @@
   <p>:seedling: dd-jiyun :seedling:</p>
   <a href="https://www.instagram.com/dd._.yun/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href="https://dd-jiyun2.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
+<a href="dlwldbs8015@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp 
 </div>
 <br>
 
