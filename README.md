@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 	
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=WelCome🙌&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Hello👋&animation=twinkling&fontSize=50&fontColor=FFFFFF)
 	
 </div>
 
@@ -9,9 +9,6 @@
   <h3>:books:Tech Stack:books:</h3>
   <p>:dizzy: Platforms & Languages :dizzy:</p>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 </div>
 <br>
 
@@ -21,14 +18,12 @@
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
 
 <div align="center">
   <p>:seedling: dd-jiyun :seedling:</p>
   <a href="https://www.instagram.com/dd._.yun/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://dd-jiyun2.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/dlwldbs8015@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp 
 </div>
 <br>
