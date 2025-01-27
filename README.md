@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 	
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EA82F7&center=true&vCenter=true&random=true&width=435&lines=Welcome+%F0%9F%91%8B" alt="Typing SVG" /></a>	
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=EA82F7&center=true&vCenter=true&random=true&width=500&lines=Welcome+%F0%9F%91%8B" alt="Typing SVG" /></a>	
 </div>
 
 <br>
@@ -18,3 +18,5 @@
 </div>
 
 <br>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
