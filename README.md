@@ -5,6 +5,11 @@
 </div>
 
 <br>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dd-jiyun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dd-jiyun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 <div align="left">
 	<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📞 Contact me </h2> <br>
 	<a href="https://www.instagram.com/dd._.yun/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
@@ -13,12 +18,3 @@
 </div>
 
 <br>
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> 
-<div>
-	<div style="text-align: left;"> 
-		<img src="https://github-readme-stats.vercel.app/api?username=dd-jiyun&show_icons=true&theme=cobalt" alt="Anurag's GitHub stats" />
-	   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dd-jiyun&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-/>
-	</div>
-
-</div>
